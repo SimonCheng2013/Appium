@@ -1,0 +1,4 @@
+INFO:root:hello 51zxw
+WARNING:root:warning info
+ERROR:root:debug.info
+CRITICAL:root:debug.info
